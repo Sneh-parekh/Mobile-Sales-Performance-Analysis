@@ -35,13 +35,13 @@ Data Visualization Best Practices
 # 📸 Dashboard Screenshots
 
 ### 🔹 Overview Dashboard
-![Overview Dashboard](Screenshots/overview.png)
+![Overview Dashboard](Screenshots/Overview.png)
 
-### 🔹 KPI & Trends
-![KPI Section](Screenshots/kpi.png)
+### 🔹 MTD Report
+![MTD Report](Screenshots/MTD_Report.png)
 
-### 🔹 Brand & Payment Analysis
-![Brand & Payment](Screenshots/brand_payment.png)
+### 🔹 Same Period Last Year
+![Same Period Last Year](Screenshots/Same_Period_Last_Year.png)
 
 # 📊 Key KPIs Tracked
 
