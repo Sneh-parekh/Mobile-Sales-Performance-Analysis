@@ -114,6 +114,4 @@ Mobile Model
 
 Analyze KPIs and trends dynamically
 
-spiring Data Analyst | Power BI Developer
 
-🔗 GitH
