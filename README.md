@@ -33,13 +33,15 @@ Data Visualization Best Practices
 
 
 # 📸 Dashboard Screenshots
-🔹 Overview Page
 
-🔹 KPI & Trend Analysis
+### 🔹 Overview Dashboard
+![Overview Dashboard](Screenshots/overview.png)
 
-🔹 Brand & Payment Insights
+### 🔹 KPI & Trends
+![KPI Section](Screenshots/kpi.png)
 
-📌 Note: Screenshots showcase KPI cards, monthly trends, brand-wise performance, ratings distribution, and payment method analysis.
+### 🔹 Brand & Payment Analysis
+![Brand & Payment](Screenshots/brand_payment.png)
 
 # 📊 Key KPIs Tracked
 
